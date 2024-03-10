@@ -66,7 +66,7 @@ View                   | [[View\|View]]
 
 
 
-
+[DatumErstellt: 2022]
 # Ding(e).
 [[Die großen Drei; Sein\|Die großen Drei; Sein]]
 [[Seiend; Seite; Idee\|Seiend; Seite; Idee]]
